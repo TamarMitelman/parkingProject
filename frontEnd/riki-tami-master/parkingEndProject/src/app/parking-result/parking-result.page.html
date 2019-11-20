@@ -1,0 +1,44 @@
+<ion-header>
+    <ion-toolbar >
+      <ion-title>
+      </ion-title >
+      <ion-img style="width:30vw" src="assets/icon/logo.png"></ion-img>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+<!-- 
+<ion-label> החניונים באזור היעד</ion-label></ion-title> -->
+
+<ion-content dir="rtl">
+  
+   
+  <agm-map [latitude]='latitude' [longitude]='longitude'  [zoom]="18" >
+  
+        <agm-marker  *ngFor="let marker of parkings"   
+          [latitude]="marker.p_Lat"
+          [longitude]="marker.p_Long"
+          >
+        </agm-marker>
+    </agm-map>   
+    <div >
+    <ion-button class="button" (click)="orderByDistance()">מרחק</ion-button>
+    <ion-button class="button" (click)="orderByCost()">מחיר</ion-button>
+    <ion-button class="button" (click)="orderByFull()">תפוסה</ion-button>
+  </div>
+    <ion-list>
+        <ion-item-sliding (click)="parkingDetail(parking)" *ngFor="let parking of parkings">
+          <ion-item>
+              <ion-label style="font-size:2.5vh;margin-top:-1vh;position:absolute">{{parking.p_Name}}</ion-label>
+               <ion-label  style="font: size 1vh;position: absolute">{{parking.p_Addess}}</ion-label>
+               <ion-label  style="font: size 1vh;margin-right:20vh;margin-top:-1vh;position:absolute">{{parking.p_EmptyParkings}} חניות פנויות</ion-label>
+               <ion-label  style="margin-right:20vh;position: absolute">{{parking.p_PricesHour}} ש"ח לשעה</ion-label>        
+               <ion-img (click)="orderParking($event,parking)" src="assets/icon/parking.png" style="height: 6vh;width:6vw;margin-right:40vh;margin-top: -1vh;position: absolute"></ion-img>
+              <ion-label (click)="orderParking($event,parking)" style="margin-right: 37vh;position:absolute;color:#2356b9">תפוס חניה</ion-label> 
+          </ion-item>
+          
+        </ion-item-sliding>
+      </ion-list>
+   <div>
+    <p *ngFor="let address of adressses">{{arr}}</p>
+  </div>
+  </ion-content>

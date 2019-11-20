@@ -1,0 +1,1 @@
+https://github.com/dpa99c/phonegap-launch-navigator-example/blob/master/Ionic4Example/package.json

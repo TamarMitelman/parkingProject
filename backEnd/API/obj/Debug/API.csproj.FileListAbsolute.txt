@@ -1,0 +1,974 @@
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\ApplicationInsights.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\API.dll.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\API.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\API.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\csc.exe
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\csc.exe.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\csc.rsp
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\csi.exe
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\csi.exe.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\csi.rsp
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.AppContext.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Collections.Immutable.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Console.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.IO.Compression.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.IO.FileSystem.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.IO.Pipes.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Reflection.Metadata.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Security.AccessControl.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Security.Claims.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.ValueTuple.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Xml.XPath.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\vbc.exe
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\vbc.exe.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\vbc.rsp
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\VBCSCompiler.exe
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\roslyn\VBCSCompiler.exe.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Antlr3.Runtime.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.AI.DependencyCollector.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.AI.Web.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.AI.WindowsServer.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.ApplicationInsights.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.Web.Infrastructure.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Newtonsoft.Json.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Net.Http.Formatting.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Helpers.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Http.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Http.WebHost.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Mvc.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Optimization.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Razor.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.WebPages.Deployment.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.WebPages.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.WebPages.Razor.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\WebGrease.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Newtonsoft.Json.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Net.Http.Formatting.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Helpers.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Http.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Http.WebHost.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Mvc.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Optimization.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Razor.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.WebPages.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.WebPages.Deployment.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.WebPages.Razor.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Antlr3.Runtime.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.AI.DependencyCollector.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.AI.WindowsServer.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.AI.Web.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\obj\Debug\API.csprojAssemblyReference.cache
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\obj\Debug\API.csproj.CopyComplete
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\obj\Debug\API.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\obj\Debug\API.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\BLL.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Entities.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\DAL.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\EntityFramework.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\BOL.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\BLL.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\BLL.dll.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Entities.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\Entities.dll.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\DAL.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\DAL.dll.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\EntityFramework.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\BOL.pdb
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\BOL.dll.config
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Cors.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Http.Cors.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\System.Web.Http.Cors.xml
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\EntityFramework.SqlServer.dll
+Y:\group 3 תשעט\קולפ ריקי\ParkingProject\ParkingProject\API\bin\EntityFramework.SqlServer.xml
+D:\ריקי ותמי\ParkingProject\API\bin\ApplicationInsights.config
+D:\ריקי ותמי\ParkingProject\API\bin\API.dll.config
+D:\ריקי ותמי\ParkingProject\API\bin\API.dll
+D:\ריקי ותמי\ParkingProject\API\bin\API.pdb
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\csc.exe
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\csc.exe.config
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\csc.rsp
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\csi.exe
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\csi.exe.config
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\csi.rsp
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.AppContext.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Collections.Immutable.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Console.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.IO.Compression.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.IO.FileSystem.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.IO.Pipes.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.AccessControl.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.Claims.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.ValueTuple.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Xml.XPath.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\vbc.exe
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\vbc.exe.config
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\vbc.rsp
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\VBCSCompiler.exe
+D:\ריקי ותמי\ParkingProject\API\bin\roslyn\VBCSCompiler.exe.config
+D:\ריקי ותמי\ParkingProject\API\bin\Antlr3.Runtime.dll
+D:\ריקי ותמי\ParkingProject\API\bin\BLL.dll
+D:\ריקי ותמי\ParkingProject\API\bin\Entities.dll
+D:\ריקי ותמי\ParkingProject\API\bin\EntityFramework.dll
+D:\ריקי ותמי\ParkingProject\API\bin\EntityFramework.SqlServer.dll
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.DependencyCollector.dll
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.Web.dll
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.WindowsServer.dll
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.ApplicationInsights.dll
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.Web.Infrastructure.dll
+D:\ריקי ותמי\ParkingProject\API\bin\Newtonsoft.Json.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.Http.Formatting.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Cors.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Helpers.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Http.Cors.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Http.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Http.WebHost.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Mvc.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Optimization.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Razor.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.WebPages.Deployment.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.WebPages.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.WebPages.Razor.dll
+D:\ריקי ותמי\ParkingProject\API\bin\WebGrease.dll
+D:\ריקי ותמי\ParkingProject\API\bin\DAL.dll
+D:\ריקי ותמי\ParkingProject\API\bin\BOL.dll
+D:\ריקי ותמי\ParkingProject\API\bin\BLL.pdb
+D:\ריקי ותמי\ParkingProject\API\bin\BLL.dll.config
+D:\ריקי ותמי\ParkingProject\API\bin\Entities.pdb
+D:\ריקי ותמי\ParkingProject\API\bin\Entities.dll.config
+D:\ריקי ותמי\ParkingProject\API\bin\EntityFramework.xml
+D:\ריקי ותמי\ParkingProject\API\bin\EntityFramework.SqlServer.xml
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.Http.Formatting.xml
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Http.xml
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Http.Cors.xml
+D:\ריקי ותמי\ParkingProject\API\bin\Newtonsoft.Json.xml
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Helpers.xml
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Http.WebHost.xml
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Mvc.xml
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Optimization.xml
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.Razor.xml
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.WebPages.xml
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.WebPages.Deployment.xml
+D:\ריקי ותמי\ParkingProject\API\bin\System.Web.WebPages.Razor.xml
+D:\ריקי ותמי\ParkingProject\API\bin\Antlr3.Runtime.pdb
+D:\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.DependencyCollector.xml
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.WindowsServer.xml
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.Web.xml
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ריקי ותמי\ParkingProject\API\bin\DAL.pdb
+D:\ריקי ותמי\ParkingProject\API\bin\DAL.dll.config
+D:\ריקי ותמי\ParkingProject\API\bin\BOL.pdb
+D:\ריקי ותמי\ParkingProject\API\bin\BOL.dll.config
+D:\ריקי ותמי\ParkingProject\API\obj\Debug\API.csprojAssemblyReference.cache
+D:\ריקי ותמי\ParkingProject\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\ריקי ותמי\ParkingProject\API\obj\Debug\API.csproj.CopyComplete
+D:\ריקי ותמי\ParkingProject\API\obj\Debug\API.dll
+D:\ריקי ותמי\ParkingProject\API\obj\Debug\API.pdb
+D:\ריקי ותמי\ParkingProject\API\bin\Microsoft.Win32.Primitives.dll
+D:\ריקי ותמי\ParkingProject\API\bin\netstandard.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.AppContext.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Collections.Concurrent.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Collections.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Collections.NonGeneric.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Collections.Specialized.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.ComponentModel.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.ComponentModel.EventBasedAsync.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.ComponentModel.Primitives.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.ComponentModel.TypeConverter.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Console.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Data.Common.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.Contracts.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.Debug.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.FileVersionInfo.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.Process.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.StackTrace.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.Tools.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.TraceSource.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.Tracing.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Drawing.Primitives.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Dynamic.Runtime.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Globalization.Calendars.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Globalization.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Globalization.Extensions.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.IO.Compression.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.IO.Compression.ZipFile.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.IO.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.IO.FileSystem.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.IO.FileSystem.DriveInfo.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.IO.FileSystem.Primitives.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.IO.FileSystem.Watcher.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.IO.IsolatedStorage.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.IO.MemoryMappedFiles.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.IO.Pipes.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.IO.UnmanagedMemoryStream.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Linq.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Linq.Expressions.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Linq.Parallel.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Linq.Queryable.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.Http.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.NameResolution.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.NetworkInformation.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.Ping.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.Primitives.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.Requests.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.Security.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.Sockets.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.WebHeaderCollection.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.WebSockets.Client.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Net.WebSockets.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.ObjectModel.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Reflection.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Reflection.Extensions.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Reflection.Primitives.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Resources.Reader.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Resources.ResourceManager.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Resources.Writer.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Runtime.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Extensions.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Handles.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Runtime.InteropServices.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Numerics.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Serialization.Formatters.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Serialization.Json.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Serialization.Primitives.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Serialization.Xml.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Security.Claims.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Security.Cryptography.Algorithms.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Security.Cryptography.Csp.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Security.Cryptography.Encoding.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Security.Cryptography.Primitives.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Security.Cryptography.X509Certificates.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Security.Principal.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Security.SecureString.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Text.Encoding.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Text.Encoding.Extensions.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Text.RegularExpressions.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Threading.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Threading.Overlapped.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Threading.Tasks.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Threading.Tasks.Parallel.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Threading.Thread.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Threading.ThreadPool.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Threading.Timer.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.ValueTuple.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Xml.ReaderWriter.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Xml.XDocument.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Xml.XmlDocument.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Xml.XmlSerializer.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Xml.XPath.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Xml.XPath.XDocument.dll
+D:\ריקי ותמי\ParkingProject\API\bin\GeoCoordinate.NetCore.dll
+D:\ריקי ותמי\ParkingProject\API\bin\System.Device.Portable.dll
+D:\תמי וריקי\ParkingProject\API\bin\ApplicationInsights.config
+D:\תמי וריקי\ParkingProject\API\bin\API.dll.config
+D:\תמי וריקי\ParkingProject\API\bin\API.dll
+D:\תמי וריקי\ParkingProject\API\bin\API.pdb
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\csc.exe
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\csc.exe.config
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\csc.rsp
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\csi.exe
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\csi.exe.config
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\csi.rsp
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.AppContext.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Collections.Immutable.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Console.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.IO.Compression.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.IO.FileSystem.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.IO.Pipes.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Security.AccessControl.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Security.Claims.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.ValueTuple.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Xml.XPath.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\vbc.exe
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\vbc.exe.config
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\vbc.rsp
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\VBCSCompiler.exe
+D:\תמי וריקי\ParkingProject\API\bin\roslyn\VBCSCompiler.exe.config
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.Win32.Primitives.dll
+D:\תמי וריקי\ParkingProject\API\bin\netstandard.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.AppContext.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Collections.Concurrent.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Collections.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Collections.NonGeneric.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Collections.Specialized.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.ComponentModel.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.ComponentModel.EventBasedAsync.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.ComponentModel.Primitives.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.ComponentModel.TypeConverter.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Console.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Data.Common.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Diagnostics.Contracts.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Diagnostics.Debug.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Diagnostics.FileVersionInfo.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Diagnostics.Process.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Diagnostics.StackTrace.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Diagnostics.Tools.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Diagnostics.TraceSource.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Diagnostics.Tracing.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Drawing.Primitives.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Dynamic.Runtime.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Globalization.Calendars.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Globalization.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Globalization.Extensions.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.IO.Compression.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.IO.Compression.ZipFile.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.IO.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.IO.FileSystem.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.IO.FileSystem.DriveInfo.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.IO.FileSystem.Primitives.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.IO.FileSystem.Watcher.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.IO.IsolatedStorage.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.IO.MemoryMappedFiles.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.IO.Pipes.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.IO.UnmanagedMemoryStream.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Linq.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Linq.Expressions.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Linq.Parallel.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Linq.Queryable.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.Http.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.NameResolution.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.NetworkInformation.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.Ping.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.Primitives.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.Requests.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.Security.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.Sockets.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.WebHeaderCollection.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.WebSockets.Client.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.WebSockets.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.ObjectModel.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Reflection.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Reflection.Extensions.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Reflection.Primitives.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Resources.Reader.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Resources.ResourceManager.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Resources.Writer.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Runtime.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Runtime.Extensions.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Runtime.Handles.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Runtime.InteropServices.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Runtime.Numerics.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Runtime.Serialization.Formatters.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Runtime.Serialization.Json.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Runtime.Serialization.Primitives.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Runtime.Serialization.Xml.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Security.Claims.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Security.Cryptography.Algorithms.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Security.Cryptography.Csp.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Security.Cryptography.Encoding.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Security.Cryptography.Primitives.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Security.Cryptography.X509Certificates.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Security.Principal.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Security.SecureString.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Text.Encoding.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Text.Encoding.Extensions.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Text.RegularExpressions.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Threading.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Threading.Overlapped.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Threading.Tasks.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Threading.Tasks.Parallel.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Threading.Thread.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Threading.ThreadPool.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Threading.Timer.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.ValueTuple.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Xml.ReaderWriter.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Xml.XDocument.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Xml.XmlDocument.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Xml.XmlSerializer.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Xml.XPath.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Xml.XPath.XDocument.dll
+D:\תמי וריקי\ParkingProject\API\bin\Antlr3.Runtime.dll
+D:\תמי וריקי\ParkingProject\API\bin\BLL.dll
+D:\תמי וריקי\ParkingProject\API\bin\Entities.dll
+D:\תמי וריקי\ParkingProject\API\bin\EntityFramework.dll
+D:\תמי וריקי\ParkingProject\API\bin\EntityFramework.SqlServer.dll
+D:\תמי וריקי\ParkingProject\API\bin\GeoCoordinate.NetCore.dll
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.AI.DependencyCollector.dll
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.AI.Web.dll
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.AI.WindowsServer.dll
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.ApplicationInsights.dll
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.Web.Infrastructure.dll
+D:\תמי וריקי\ParkingProject\API\bin\Newtonsoft.Json.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Device.Portable.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.Http.Formatting.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Cors.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Helpers.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Http.Cors.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Http.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Http.WebHost.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Mvc.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Optimization.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Razor.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.WebPages.Deployment.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.WebPages.dll
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.WebPages.Razor.dll
+D:\תמי וריקי\ParkingProject\API\bin\WebGrease.dll
+D:\תמי וריקי\ParkingProject\API\bin\DAL.dll
+D:\תמי וריקי\ParkingProject\API\bin\BOL.dll
+D:\תמי וריקי\ParkingProject\API\bin\BLL.pdb
+D:\תמי וריקי\ParkingProject\API\bin\BLL.dll.config
+D:\תמי וריקי\ParkingProject\API\bin\Entities.pdb
+D:\תמי וריקי\ParkingProject\API\bin\Entities.dll.config
+D:\תמי וריקי\ParkingProject\API\bin\EntityFramework.xml
+D:\תמי וריקי\ParkingProject\API\bin\EntityFramework.SqlServer.xml
+D:\תמי וריקי\ParkingProject\API\bin\System.Net.Http.Formatting.xml
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Http.xml
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Http.Cors.xml
+D:\תמי וריקי\ParkingProject\API\bin\Newtonsoft.Json.xml
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Helpers.xml
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Http.WebHost.xml
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Mvc.xml
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Optimization.xml
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.Razor.xml
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.WebPages.xml
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.WebPages.Deployment.xml
+D:\תמי וריקי\ParkingProject\API\bin\System.Web.WebPages.Razor.xml
+D:\תמי וריקי\ParkingProject\API\bin\Antlr3.Runtime.pdb
+D:\תמי וריקי\ParkingProject\API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.AI.DependencyCollector.xml
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.AI.WindowsServer.xml
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.AI.Web.xml
+D:\תמי וריקי\ParkingProject\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\תמי וריקי\ParkingProject\API\bin\DAL.pdb
+D:\תמי וריקי\ParkingProject\API\bin\DAL.dll.config
+D:\תמי וריקי\ParkingProject\API\bin\BOL.pdb
+D:\תמי וריקי\ParkingProject\API\bin\BOL.dll.config
+D:\תמי וריקי\ParkingProject\API\obj\Debug\API.csprojAssemblyReference.cache
+D:\תמי וריקי\ParkingProject\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\תמי וריקי\ParkingProject\API\obj\Debug\API.csproj.CopyComplete
+D:\תמי וריקי\ParkingProject\API\obj\Debug\API.dll
+D:\תמי וריקי\ParkingProject\API\obj\Debug\API.pdb
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\ApplicationInsights.config
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\API.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\API.pdb
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.Win32.Primitives.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\netstandard.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.AppContext.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Collections.Concurrent.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Collections.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Collections.NonGeneric.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Collections.Specialized.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.ComponentModel.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.ComponentModel.Primitives.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Console.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Data.Common.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Diagnostics.Contracts.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Diagnostics.Debug.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Diagnostics.Process.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Diagnostics.Tools.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Diagnostics.TraceSource.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Diagnostics.Tracing.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Drawing.Primitives.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Dynamic.Runtime.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Globalization.Calendars.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Globalization.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Globalization.Extensions.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.IO.Compression.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.IO.Compression.ZipFile.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.IO.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.IO.IsolatedStorage.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.IO.Pipes.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Linq.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Linq.Expressions.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Linq.Parallel.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Linq.Queryable.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.Http.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.NameResolution.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.NetworkInformation.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.Ping.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.Primitives.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.Requests.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.Security.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.Sockets.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.WebHeaderCollection.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.WebSockets.Client.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.WebSockets.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.ObjectModel.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Reflection.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Reflection.Extensions.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Reflection.Primitives.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Resources.Reader.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Resources.ResourceManager.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Resources.Writer.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Runtime.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Runtime.Extensions.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Runtime.Handles.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Runtime.InteropServices.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Runtime.Numerics.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Runtime.Serialization.Json.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Security.Claims.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Security.Cryptography.Csp.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Security.Principal.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Security.SecureString.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Text.Encoding.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Text.Encoding.Extensions.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Text.RegularExpressions.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Threading.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Threading.Overlapped.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Threading.Tasks.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Threading.Thread.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Threading.ThreadPool.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Threading.Timer.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.ValueTuple.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Xml.XDocument.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Xml.XmlSerializer.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Xml.XPath.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\BLL.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Entities.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\EntityFramework.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\GeoCoordinate.NetCore.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.AI.Web.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Device.Portable.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\WebGrease.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\DAL.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\BOL.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\BLL.pdb
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\BLL.dll.config
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Entities.pdb
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Entities.dll.config
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\EntityFramework.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.AI.Web.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\DAL.pdb
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\DAL.dll.config
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\BOL.pdb
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\BOL.dll.config
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\obj\Debug\API.dll
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\obj\Debug\API.pdb
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\bin\API.dll.config
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\תמר מיטלמן\פרויקט סיום\ParkingProject\API\obj\Debug\API.csproj.CopyComplete
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\ApplicationInsights.config
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\API.dll.config
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\API.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\API.pdb
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\csc.exe
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\csc.exe.config
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\csc.rsp
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\csi.exe
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\csi.exe.config
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\csi.rsp
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.AppContext.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Collections.Immutable.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Console.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.IO.Compression.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.IO.FileSystem.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.IO.Pipes.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.AccessControl.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.Claims.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.ValueTuple.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Xml.XPath.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\vbc.exe
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\vbc.exe.config
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\vbc.rsp
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\VBCSCompiler.exe
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\roslyn\VBCSCompiler.exe.config
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.Win32.Primitives.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\netstandard.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.AppContext.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Collections.Concurrent.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Collections.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Collections.NonGeneric.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Collections.Specialized.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.ComponentModel.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.ComponentModel.EventBasedAsync.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.ComponentModel.Primitives.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.ComponentModel.TypeConverter.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Console.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Data.Common.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.Contracts.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.Debug.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.FileVersionInfo.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.Process.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.StackTrace.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.Tools.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.TraceSource.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.Tracing.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Drawing.Primitives.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Dynamic.Runtime.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Globalization.Calendars.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Globalization.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Globalization.Extensions.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.IO.Compression.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.IO.Compression.ZipFile.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.IO.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.IO.FileSystem.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.IO.FileSystem.DriveInfo.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.IO.FileSystem.Primitives.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.IO.FileSystem.Watcher.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.IO.IsolatedStorage.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.IO.MemoryMappedFiles.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.IO.Pipes.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.IO.UnmanagedMemoryStream.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Linq.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Linq.Expressions.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Linq.Parallel.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Linq.Queryable.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.Http.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.NameResolution.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.NetworkInformation.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.Ping.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.Primitives.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.Requests.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.Security.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.Sockets.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.WebHeaderCollection.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.WebSockets.Client.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.WebSockets.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.ObjectModel.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Reflection.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Reflection.Extensions.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Reflection.Primitives.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Resources.Reader.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Resources.ResourceManager.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Resources.Writer.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Runtime.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Extensions.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Handles.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Runtime.InteropServices.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Numerics.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Serialization.Formatters.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Serialization.Json.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Serialization.Primitives.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Runtime.Serialization.Xml.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Security.Claims.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Security.Cryptography.Algorithms.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Security.Cryptography.Csp.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Security.Cryptography.Encoding.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Security.Cryptography.Primitives.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Security.Cryptography.X509Certificates.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Security.Principal.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Security.SecureString.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Text.Encoding.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Text.Encoding.Extensions.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Text.RegularExpressions.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Threading.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Threading.Overlapped.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Threading.Tasks.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Threading.Tasks.Parallel.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Threading.Thread.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Threading.ThreadPool.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Threading.Timer.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.ValueTuple.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Xml.ReaderWriter.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Xml.XDocument.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Xml.XmlDocument.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Xml.XmlSerializer.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Xml.XPath.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Xml.XPath.XDocument.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Antlr3.Runtime.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\BLL.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Entities.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\EntityFramework.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\EntityFramework.SqlServer.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\GeoCoordinate.NetCore.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.DependencyCollector.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.Web.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.WindowsServer.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.ApplicationInsights.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.Web.Infrastructure.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Newtonsoft.Json.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Device.Portable.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.Http.Formatting.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Cors.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Helpers.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Http.Cors.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Http.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Http.WebHost.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Mvc.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Optimization.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Razor.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.WebPages.Deployment.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.WebPages.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.WebPages.Razor.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\WebGrease.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\DAL.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\BOL.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\BLL.pdb
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\BLL.dll.config
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Entities.pdb
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Entities.dll.config
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\EntityFramework.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\EntityFramework.SqlServer.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Net.Http.Formatting.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Http.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Http.Cors.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Newtonsoft.Json.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Helpers.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Http.WebHost.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Mvc.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Optimization.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.Razor.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.WebPages.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.WebPages.Deployment.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Web.WebPages.Razor.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Antlr3.Runtime.pdb
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.DependencyCollector.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.WindowsServer.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.AI.Web.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\DAL.pdb
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\DAL.dll.config
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\BOL.pdb
+D:\07-08\ריקי ותמי\ParkingProject\API\bin\BOL.dll.config
+D:\07-08\ריקי ותמי\ParkingProject\API\obj\Debug\API.csprojAssemblyReference.cache
+D:\07-08\ריקי ותמי\ParkingProject\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\07-08\ריקי ותמי\ParkingProject\API\obj\Debug\API.csproj.CopyComplete
+D:\07-08\ריקי ותמי\ParkingProject\API\obj\Debug\API.dll
+D:\07-08\ריקי ותמי\ParkingProject\API\obj\Debug\API.pdb
+D:\‏‏תיקיה חדשה\פרויקט חדש\ParkingProject\API\obj\Debug\API.dll
+D:\‏‏תיקיה חדשה\פרויקט חדש\ParkingProject\API\obj\Debug\API.pdb

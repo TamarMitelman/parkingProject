@@ -1,0 +1,51 @@
+
+<ion-header dir="rtl">
+  <ion-toolbar color="primary">
+    <ion-title>
+      הזמנת חניה בחניון {{parkingName}}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content dir="rtl">
+  <!-- Card for adding a new event -->
+  <ion-card>
+    <ion-card-header tappable (click)="collapseCard = !collapseCard">
+    </ion-card-header>
+    <ion-card-content *ngIf="!collapseCard">
+      <ion-item>
+        <ion-label>תאריך התחלה</ion-label>
+        <ion-datetime displayFormat="MM/DD/YYYY" pickerFormat="YYYY-MM-DD" [(ngModel)]="event.startTime" [max]="maxDate" [min]="minDate"></ion-datetime>
+      </ion-item>
+      <ion-item>
+          <ion-label>שעת התחלה</ion-label>
+          <ion-datetime displayFormat="HH:mm" pickerFormat="HH:mm" [(ngModel)]="event.startTime"></ion-datetime>
+        </ion-item>
+      <ion-item *ngIf="for_few_days==true">
+        <ion-label>תאריך סיום</ion-label>
+        <ion-datetime displayFormat="MM/DD/YYYY" pickerFormat="YYYY-MM-DD" [(ngModel)]="event.endTime" [max]="maxDate" [min]="minDate"></ion-datetime>
+      </ion-item>
+
+      <ion-item>
+          <ion-label>שעת סיום</ion-label>
+          <ion-datetime displayFormat="HH:mm" pickerFormat="HH:mm" [(ngModel)]="event.endTime" ></ion-datetime>
+        </ion-item>
+
+      <ion-button  (click)="addNewCar()">הוספת רכב חדש</ion-button>
+      <ion-item  *ngIf="ifAddCar==true" [(ngModel)]="newCar">
+      <ion-label>נבחר רכב</ion-label>
+    </ion-item>
+
+<ion-item *ngIf="ifAddCar==false">
+<ion-label  position="floating" >רכבים</ion-label>
+<ion-select placeholder="Select One" [(ngModel)]="car" (ionChange)="choosAnother()">
+<ion-select-option *ngFor="let car of cars"[value]="car.car_number" >{{car.car_number}}</ion-select-option>
+ <!-- <ion-select-option ionBlur="addCar()">אחר<input type="text" placeholder="Write your car number" id="newCar" style="background-color: crimson"></ion-select-option> -->
+
+</ion-select>
+</ion-item>
+
+      <ion-button fill="outline" expand="block" (click)="addEvent()" [disabled]="!car">אישור</ion-button>
+ 
+    </ion-card-content>
+  </ion-card>
+</ion-content>

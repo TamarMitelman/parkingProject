@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ParkingModelStoreContainer" CdmEntityContainer="ParkingEntities">
+    <EntitySetMapping Name="Cars">
+      <EntityTypeMapping TypeName="ParkingModel.Car">
+        <MappingFragment StoreEntitySet="Car">
+          <ScalarProperty Name="id_car" ColumnName="id_car" />
+          <ScalarProperty Name="car_number" ColumnName="car_number" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Car_in_parking">
+      <EntityTypeMapping TypeName="ParkingModel.Car_in_parking">
+        <MappingFragment StoreEntitySet="Car_in_parking">
+          <ScalarProperty Name="c_id" ColumnName="c_id" />
+          <ScalarProperty Name="c_car_id" ColumnName="c_car_id" />
+          <ScalarProperty Name="c_parkingId" ColumnName="c_parkingId" />
+          <ScalarProperty Name="c_date_start" ColumnName="c_date_start" />
+          <ScalarProperty Name="c_date_end" ColumnName="c_date_end" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Criteria">
+      <EntityTypeMapping TypeName="ParkingModel.Criterion">
+        <MappingFragment StoreEntitySet="Criterion">
+          <ScalarProperty Name="c_id" ColumnName="c_id" />
+          <ScalarProperty Name="c_value" ColumnName="c_value" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Parking_owner">
+      <EntityTypeMapping TypeName="ParkingModel.Parking_owner">
+        <MappingFragment StoreEntitySet="Parking_owner">
+          <ScalarProperty Name="o_id" ColumnName="o_id" />
+          <ScalarProperty Name="o_name" ColumnName="o_name" />
+          <ScalarProperty Name="o_password" ColumnName="o_password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Parkings">
+      <EntityTypeMapping TypeName="ParkingModel.Parking">
+        <MappingFragment StoreEntitySet="Parkings">
+          <ScalarProperty Name="p_Id" ColumnName="p_Id" />
+          <ScalarProperty Name="p_Name" ColumnName="p_Name" />
+          <ScalarProperty Name="p_Addess" ColumnName="p_Addess" />
+          <ScalarProperty Name="p_Long" ColumnName="p_Long" />
+          <ScalarProperty Name="p_Lat" ColumnName="p_Lat" />
+          <ScalarProperty Name="p_ParkingsNum" ColumnName="p_ParkingsNum" />
+          <ScalarProperty Name="p_EmptyParkings" ColumnName="p_EmptyParkings" />
+          <ScalarProperty Name="p_For_few_days" ColumnName="p_For_few_days" />
+          <ScalarProperty Name="p_Description" ColumnName="p_Description" />
+          <ScalarProperty Name="p_PricesHour" ColumnName="p_PricesHour" />
+          <ScalarProperty Name="p_API_Details" ColumnName="p_API_Details" />
+          <ScalarProperty Name="p_BankDetails" ColumnName="p_BankDetails" />
+          <ScalarProperty Name="p_ActivityHoursTill" ColumnName="p_ActivityHoursTill" />
+          <ScalarProperty Name="p_ActivityHoursEnd" ColumnName="p_ActivityHoursEnd" />
+          <ScalarProperty Name="p_image" ColumnName="p_image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Parkings_of_owner">
+      <EntityTypeMapping TypeName="ParkingModel.Parkings_of_owner">
+        <MappingFragment StoreEntitySet="Parkings_of_owner">
+          <ScalarProperty Name="op_id" ColumnName="op_id" />
+          <ScalarProperty Name="op_parking_id" ColumnName="op_parking_id" />
+          <ScalarProperty Name="op_owner_id" ColumnName="op_owner_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Setting_user">
+      <EntityTypeMapping TypeName="ParkingModel.Setting_user">
+        <MappingFragment StoreEntitySet="Setting_user">
+          <ScalarProperty Name="s_user_id" ColumnName="s_user_id" />
+          <ScalarProperty Name="s_choose_criterion" ColumnName="s_choose_criterion" />
+          <ScalarProperty Name="s_range" ColumnName="s_range" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="ParkingModel.user">
+        <MappingFragment StoreEntitySet="user">
+          <ScalarProperty Name="u_id" ColumnName="u_id" />
+          <ScalarProperty Name="u_phone" ColumnName="u_phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

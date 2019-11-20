@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar >
+    <ion-title>
+    </ion-title >
+    <ion-img style="width:30vw" src="assets/icon/logo.png"></ion-img>
+  </ion-toolbar>
+</ion-header>
+<ion-content>
+   
+    <agm-map  [latitude]='latitude' [longitude]='longitude' [zoom]="18" style="width:100vw; height:79vh; position: fixed; z-index:auto;" >
+    </agm-map>
+            <ion-searchbar search-icon #inputname id="places" type="text" name="search" placeholder="הכנס כתובת יעד" autocomplete="off"
+            [value]="place?.formatted_address" style="position: fixed; z-index:auto;"  (ionClear)="onClear($event)"></ion-searchbar>
+           <div>
+           <ion-img (click)="search()" style="width:5vw;height:5vh; margin-top:0.8vh; margin-left: 3vh;  position: fixed; z-index:auto;" src="assets/icon/search.png"></ion-img>
+          </div>
+            <!-- <ion-button  (click)="addUser()">addUser</ion-button> -->
+</ion-content> 
+

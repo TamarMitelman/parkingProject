@@ -1,0 +1,10 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Payment-for-parking</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ngx-paypal [config]="payPalConfig"></ngx-paypal>
+<ion-button (click)="pay()">שולם</ion-button>
+</ion-content>

@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>user-car</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+<button (click)="get_userCars()">הצג רכבים למשתמש</button>
+<br/>
+<br/>
+<br/>
+
+<ion-list radio-group>
+    <ion-list-header>
+        בחר רכב
+    </ion-list-header>
+  <ion-item   *ngFor="let car of cars">
+   <ion-label>{{car.car_number}}</ion-label>
+  <ion-checkbox slot="end" name="car1" value="{{car.car_number}}" (ionChange)="checkedCar($event)" [(ngModel)]="car['is_used_now']"></ion-checkbox> 
+    </ion-item> 
+</ion-list>
+<ion-button (click)="selectCar()">אישור</ion-button>
+
+</ion-content>

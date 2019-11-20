@@ -1,0 +1,20 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>UserSettings</ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content>
+  <ion-list>
+    <ion-item>
+      <!-- <ion-lable>בחר קטגוריה למיון</ion-lable> -->
+    </ion-item>
+  <ion-item>
+      {{saturation}}
+      <ion-range min="0" max="2000" color="secondary" [(ngModel)]="saturation" step="50" pin="true" snaps="true">
+        <ion-label slot="start">0</ion-label>
+        <ion-label slot="end">2000</ion-label>
+      </ion-range>
+    </ion-item>
+  </ion-list>
+</ion-content>
+

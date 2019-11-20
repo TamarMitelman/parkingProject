@@ -1,0 +1,7 @@
+{
+  "name": "parkingEndProject",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

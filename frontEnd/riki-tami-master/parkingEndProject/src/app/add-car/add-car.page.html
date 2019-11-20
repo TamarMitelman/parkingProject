@@ -1,0 +1,23 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>הוסף רכב חדש</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+
+  <ion-item>
+      <ion-item>
+          <ion-label position="floating">הכנס מספר רכב</ion-label>
+          <ion-input id="inputText" maxlength="9"  required [(ngModel)]="carService.newCar.car_number" type="text" (ionChange)="OnInputChange()" ></ion-input>
+          <!-- <ion-input type="number" id="inputNumber" [(ngModel)]=" carService.newCar.car_number"></ion-input>  -->
+          <!-- <ion-input type="tel" maxlength="8" maxlength="9"  id="inputNumber" pattern="\d{9}" required></ion-input> -->
+ 
+        </ion-item>
+    </ion-item>
+
+    <ion-button (click)="addNewCar()">הוסף רכב</ion-button><br/>
+  <ion-button (click)="precedingPage()">חזור</ion-button>
+  
+</ion-content>

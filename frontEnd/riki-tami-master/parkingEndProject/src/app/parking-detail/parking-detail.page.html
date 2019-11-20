@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>פרטי חניון {{parkingDetails.p_Name}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content dir="rtl">
+  <ion-card>
+
+    <ion-card-content>
+      <ion-icon name="pin" slot="start"></ion-icon> <ion-label>שם החניון: {{parkingDetails.p_Name}}</ion-label> <br /> <br />
+      <ion-icon name="pin" slot="start"></ion-icon><ion-label>כתובת: {{parkingDetails.p_Addess}}</ion-label> <br /> <br />
+      <ion-icon name="pin" slot="start"></ion-icon> <ion-label>מספר חניות: {{parkingDetails.p_ParkingsNum}}</ion-label><br /> <br />
+      <ion-icon name="pin" slot="start"></ion-icon> <ion-label>מספר חניות פנויות: {{parkingDetails.p_EmptyParkings}}</ion-label><br /> <br />
+      <ion-icon name="pin" slot="start"></ion-icon> <ion-label>מחיר לשעה: {{parkingDetails.p_PricesHour}}</ion-label><br /> <br />
+      <ion-icon name="pin" slot="start"></ion-icon> <ion-label>שעת התחלת פעילות: {{parkingDetails.p_ActivityHoursTill}}</ion-label><br /> <br />
+      <ion-icon name="pin" slot="start"></ion-icon> <ion-label>שעת סיום פעילות: {{parkingDetails.p_ActivityHoursEnd}}</ion-label><br /> <br />
+          <!-- <ion-img style="width: 80px; height: 80px;" src="../images/parking1.png"></ion-img> -->
+      <!-- {{parkingDetails.p_image}} -->
+      <ion-img  src="assets/icon/{{parkingDetails.p_image}}"></ion-img>
+
+      <!-- <img src="../img/img1.png" alt=""> -->
+      <ion-button (click)="orderParking()" class="button">תפיסת חניה</ion-button>
+      <a href="https://www.waze.com/ul?ll={{parkingDetails.p_Long}}%2C-{{parkingDetails.p_Lat}}&navigate=yes&zoom=17">ניתוב לחניון</a>
+    </ion-card-content>
+  </ion-card>
+
+</ion-content>

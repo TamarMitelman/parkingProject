@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ParkingModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Car">
+    <Key>
+      <PropertyRef Name="id_car" />
+    </Key>
+    <Property Name="id_car" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="car_number" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="user_id" Type="int" />
+  </EntityType>
+  <EntityType Name="Car_in_parking">
+    <Key>
+      <PropertyRef Name="c_id" />
+    </Key>
+    <Property Name="c_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="c_car_id" Type="int" Nullable="false" />
+    <Property Name="c_parkingId" Type="int" Nullable="false" />
+    <Property Name="c_date_start" Type="datetime" Nullable="false" />
+    <Property Name="c_date_end" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Criterion">
+    <Key>
+      <PropertyRef Name="c_id" />
+    </Key>
+    <Property Name="c_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="c_value" Type="nchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Parking_owner">
+    <Key>
+      <PropertyRef Name="o_id" />
+    </Key>
+    <Property Name="o_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="o_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="o_password" Type="nvarchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Parkings">
+    <Key>
+      <PropertyRef Name="p_Id" />
+    </Key>
+    <Property Name="p_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="p_Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="p_Addess" Type="nvarchar" MaxLength="70" Nullable="false" />
+    <Property Name="p_Long" Type="decimal" Precision="18" Scale="15" Nullable="false" />
+    <Property Name="p_Lat" Type="decimal" Precision="18" Scale="15" Nullable="false" />
+    <Property Name="p_ParkingsNum" Type="int" Nullable="false" />
+    <Property Name="p_EmptyParkings" Type="int" Nullable="false" />
+    <Property Name="p_For_few_days" Type="bit" />
+    <Property Name="p_Description" Type="nvarchar" MaxLength="1000" />
+    <Property Name="p_PricesHour" Type="int" Nullable="false" />
+    <Property Name="p_API_Details" Type="nvarchar" MaxLength="100" />
+    <Property Name="p_BankDetails" Type="nvarchar" MaxLength="100" />
+    <Property Name="p_ActivityHoursTill" Type="time" Precision="2" Nullable="false" />
+    <Property Name="p_ActivityHoursEnd" Type="time" Precision="2" Nullable="false" />
+    <Property Name="p_image" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Parkings_of_owner">
+    <Key>
+      <PropertyRef Name="op_id" />
+    </Key>
+    <Property Name="op_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="op_parking_id" Type="int" Nullable="false" />
+    <Property Name="op_owner_id" Type="int" />
+  </EntityType>
+  <EntityType Name="Setting_user">
+    <Key>
+      <PropertyRef Name="s_user_id" />
+    </Key>
+    <Property Name="s_user_id" Type="int" Nullable="false" />
+    <Property Name="s_choose_criterion" Type="int" />
+    <Property Name="s_range" Type="int" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="u_id" />
+    </Key>
+    <Property Name="u_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="u_phone" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Car_in_parking_Car">
+    <End Role="Car" Type="Self.Car" Multiplicity="1" />
+    <End Role="Car_in_parking" Type="Self.Car_in_parking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Car">
+        <PropertyRef Name="id_car" />
+      </Principal>
+      <Dependent Role="Car_in_parking">
+        <PropertyRef Name="c_car_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Car_in_parking_Parkings">
+    <End Role="Parkings" Type="Self.Parkings" Multiplicity="1" />
+    <End Role="Car_in_parking" Type="Self.Car_in_parking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Parkings">
+        <PropertyRef Name="p_Id" />
+      </Principal>
+      <Dependent Role="Car_in_parking">
+        <PropertyRef Name="c_parkingId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Car_user">
+    <End Role="user" Type="Self.user" Multiplicity="0..1" />
+    <End Role="Car" Type="Self.Car" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user">
+        <PropertyRef Name="u_id" />
+      </Principal>
+      <Dependent Role="Car">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Parkings_of_owner_Parking_owner">
+    <End Role="Parking_owner" Type="Self.Parking_owner" Multiplicity="0..1" />
+    <End Role="Parkings_of_owner" Type="Self.Parkings_of_owner" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Parking_owner">
+        <PropertyRef Name="o_id" />
+      </Principal>
+      <Dependent Role="Parkings_of_owner">
+        <PropertyRef Name="op_owner_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Parkings_of_owner_Parkings">
+    <End Role="Parkings" Type="Self.Parkings" Multiplicity="1" />
+    <End Role="Parkings_of_owner" Type="Self.Parkings_of_owner" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Parkings">
+        <PropertyRef Name="p_Id" />
+      </Principal>
+      <Dependent Role="Parkings_of_owner">
+        <PropertyRef Name="op_parking_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Setting_user_Criterion">
+    <End Role="Criterion" Type="Self.Criterion" Multiplicity="0..1" />
+    <End Role="Setting_user" Type="Self.Setting_user" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Criterion">
+        <PropertyRef Name="c_id" />
+      </Principal>
+      <Dependent Role="Setting_user">
+        <PropertyRef Name="s_choose_criterion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Setting_user_user">
+    <End Role="user" Type="Self.user" Multiplicity="1" />
+    <End Role="Setting_user" Type="Self.Setting_user" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="user">
+        <PropertyRef Name="u_id" />
+      </Principal>
+      <Dependent Role="Setting_user">
+        <PropertyRef Name="s_user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ParkingModelStoreContainer">
+    <EntitySet Name="Car" EntityType="Self.Car" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Car_in_parking" EntityType="Self.Car_in_parking" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Criterion" EntityType="Self.Criterion" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Parking_owner" EntityType="Self.Parking_owner" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Parkings" EntityType="Self.Parkings" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Parkings_of_owner" EntityType="Self.Parkings_of_owner" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Setting_user" EntityType="Self.Setting_user" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="user" EntityType="Self.user" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Car_in_parking_Car" Association="Self.FK_Car_in_parking_Car">
+      <End Role="Car" EntitySet="Car" />
+      <End Role="Car_in_parking" EntitySet="Car_in_parking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Car_in_parking_Parkings" Association="Self.FK_Car_in_parking_Parkings">
+      <End Role="Parkings" EntitySet="Parkings" />
+      <End Role="Car_in_parking" EntitySet="Car_in_parking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Car_user" Association="Self.FK_Car_user">
+      <End Role="user" EntitySet="user" />
+      <End Role="Car" EntitySet="Car" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Parkings_of_owner_Parking_owner" Association="Self.FK_Parkings_of_owner_Parking_owner">
+      <End Role="Parking_owner" EntitySet="Parking_owner" />
+      <End Role="Parkings_of_owner" EntitySet="Parkings_of_owner" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Parkings_of_owner_Parkings" Association="Self.FK_Parkings_of_owner_Parkings">
+      <End Role="Parkings" EntitySet="Parkings" />
+      <End Role="Parkings_of_owner" EntitySet="Parkings_of_owner" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Setting_user_Criterion" Association="Self.FK_Setting_user_Criterion">
+      <End Role="Criterion" EntitySet="Criterion" />
+      <End Role="Setting_user" EntitySet="Setting_user" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Setting_user_user" Association="Self.FK_Setting_user_user">
+      <End Role="user" EntitySet="user" />
+      <End Role="Setting_user" EntitySet="Setting_user" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

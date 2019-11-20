@@ -1,0 +1,37 @@
+<ion-content>
+
+  <ion-segment (ionChange)="segmentChanged($event)" value="list">
+    <ion-segment-button value="list">
+      <ion-label>רשימה</ion-label>
+    </ion-segment-button>
+    <ion-segment-button value="map">
+      <ion-label>מפה</ion-label>
+    </ion-segment-button>
+  </ion-segment>
+
+<!-- 
+  <button (click)="getParkingsSearch('segmentChanged')">get parkings</button> -->
+  <ion-list>
+    <ion-item (click)="parkingDetail(parking)" *ngFor="let parking of parkings">
+      <ion-label>{{parking.p_Name}}</ion-label>
+      <ion-label>{{parking.p_Addess}}</ion-label>
+      <ion-label>{{parking.p_EmptyParkings}}/{{parking.p_ParkingsNum}}</ion-label>
+      <ion-label>{{parking.p_PricesHour}}</ion-label>
+    </ion-item>
+  </ion-list>
+
+
+  <ion-list>
+    <ion-item>
+      <ion-input *ngIf="!place" #inputname  id="places" type="text" name="search" placeholder="הכנס כתובת יעד" autocomplete></ion-input>
+      <ion-input *ngIf="place&&place['name']" id="places" type="text" name="search" [(ngModel)]="place['name']" #inputname
+        placeholder="הכנס כתובת יעד" autocomplete></ion-input>
+      <!-- -------------------------------------------------------------------- -->
+      <!-- <ion-input id="places" type="text" name="search" placeholder="הכנס כתובת יעד" autocomplete ></ion-input> -->
+
+    </ion-item>
+  </ion-list>
+  <button (click)="start()">search</button>
+  <button (click)="getSearch()">search</button>
+  <p *ngFor="let address of adressses">{{arr}}</p>
+</ion-content>

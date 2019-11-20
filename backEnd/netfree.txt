@@ -1,0 +1,1 @@
+<iframe src="https://embed.waze.com/iframe?zoom=17&lat=32.073884&lon=34.842421&ct=livemap" width="600" height="450" allowfullscreen></iframe>
